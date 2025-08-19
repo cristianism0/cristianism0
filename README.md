@@ -1,16 +1,12 @@
-## Hi there 👋
+## Olá, eu sou o Cristian!
 
-<!--
-**cristianism0/cristianism0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Hoje estudo Ciência e Tecnologia na UFABC
+-  Estudando Python e C++
+-  Entre em contato comigo através do email: csg2099@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/cristianism0/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cristianism0&show_icons=true&theme=synthwave"/>
+</a>
+<a href="https://github.com/cristianism0/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianism0&layout=donut&exclude_repo=cristianism0,cristianism0.github.io&card_width=320&theme=synthwave"/>
+</a>
