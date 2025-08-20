@@ -3,7 +3,7 @@
 -  Hoje estudo Ciência e Tecnologia na UFABC
 -  Estudando Python e C++
 -  Entre em contato comigo através do email: csg2099@gmail.com
--  Acesse o [meu site!]([cristianism0.github.io](https://cristianism0.github.io/))
+-  Acesse o [meu site](https://cristianism0.github.io/))
 
 
 <div>
