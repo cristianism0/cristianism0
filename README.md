@@ -1,7 +1,7 @@
 ## Olá, eu sou o Cristian!
 
 -  Hoje estudo Ciência e Tecnologia na UFABC
--  Estudando Python e C++
+-  Estudando Python e ML
 -  Entre em contato comigo através do email: csg2099@gmail.com
 -  Acesse o [meu site!](https://cristianism0.github.io/)
 
