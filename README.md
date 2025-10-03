@@ -9,7 +9,7 @@
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cristian-sales-7092212b04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-sales" height="30" width="40" /></a>
-<a href="cristianism0.github.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/jekyll.svg" alt="cérebro-cristianism0" height="30" width="40" /></a>
+<a href="https://cristianism0.github.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/jekyll.svg" alt="cérebro-cristianism0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Features:</h3>
