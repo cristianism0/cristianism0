@@ -1,8 +1,10 @@
 Hey! I'm Cristian. I'm currently studying Science and Technology at Universidade Federal do ABC - UFABC.
-My focus are o Linux Kernels and Kernels in general, Data Science and ML/AI engineering and HPC.
- 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30" width="40"/>
+My focus are: Linux Kernel and Kernels in general, Data Science and ML/AI, and HPC.
 
+ <p align="left">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" height="30" width="40"/>
+</p>
 
 <!--
 OFF FOR NOW.
