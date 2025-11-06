@@ -2,9 +2,14 @@ Hey! I'm Cristian. I'm currently studying Science and Technology at Universidade
 
 My focus are: Linux Kernel and Kernels in general, Data Science and ML/AI, and HPC.
 
- <p align="left">
+<!-- <p align="left">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30" width="40"/>
-</p>
+</p> -->
+
+
+![tux-linux-penguin](https://github.com/user-attachments/assets/89eda1b4-6636-480b-a147-0485eb6838fd)
+
+
 
 <!--
 OFF FOR NOW.
