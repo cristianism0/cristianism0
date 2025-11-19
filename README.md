@@ -1,6 +1,6 @@
 Hey! I'm Cristian. I'm currently studying Science and Technology at Universidade Federal do ABC - UFABC.
 
-My focus are: Linux Kernel and Kernels in general, Data Science and ML/AI, and HPC.
+My focus are: Linux Kernel and Kernels in general, Data Science and ML/AI.
 
 <!-- 
 <p align="left">
