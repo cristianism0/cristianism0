@@ -1,6 +1,6 @@
 Hey! I'm Cristian. I'm currently studying Science and Technology at Universidade Federal do ABC - UFABC.
 
-My focus are: Low level programming, Data Science and ML/AI.
+I'm very interest in computer programming and i love to learn more about it. :)
 
 <!-- 
 <p align="left">
