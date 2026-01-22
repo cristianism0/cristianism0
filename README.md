@@ -37,10 +37,7 @@ I'm currently studying Science and Technology. I really love technology and comp
 
 ![Cristianism0 stats](https://github-readme-stats.vercel.app/api?username=cristianism0&show_icons=true&theme=radical)
 ---
-### 📝 Recent Writing
 
-
----
 <details>
   <summary> 🧸A little bit more of me.</summary>
   I started to code since my highschool, where i had contact with basic IT and some static site creation, so, i saw a little bit of HTML and CSS. Also, i studied other field of IT like network (my beloved) and a bit of Java. Now, i'm studying Ciency and Technology and going to Computer Science on the future.
