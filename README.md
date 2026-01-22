@@ -39,7 +39,7 @@ I'm currently studying Science and Technology. I really love technology and comp
 ---
 
 <details>
-  <summary> 🧸A little bit more of me.</summary>
+  <summary><h3>🧸A little bit more of me.</h3></summary>
   I started to code since my highschool, where i had contact with basic IT and some static site creation, so, i saw a little bit of HTML and CSS. Also, i studied other field of IT like network (my beloved) and a bit of Java. Now, i'm studying Ciency and Technology and going to Computer Science on the future.
 
   Usually, i spend my time reading, studying or make coding on a project to make a more robust study of sintaxe and flow of a language. Sometimes i like to write about phylosophy and historical/sociological topics on my blog. I wrote about Linux too, which i love.
