@@ -3,7 +3,7 @@
 ### 📔 About me
 **`technology enthusiast / knowledge digger`**
 
-I'm currently studying Science and Technology. I really love technology and computer programming, i'm currently engaged on self projects that help me to understand more about it. Yet, most of my code sessions are correlated with themes that i like too, like:  games, historical concepts and movies. You can check more of it on my [personal website!](https://cristianism0.github.io)
+I'm currently studying Science and Technology. I really love technology and computer programming, I'm currently working on personal projects that help me to understand more about it. Yet, most of my code sessions are correlated with themes that I like too, like:  games, historical concepts and movies. You can check more of it on my [personal website!](https://cristianism0.github.io)
 
 ---
 ### ✏️ Languages and Tools
@@ -40,15 +40,12 @@ I'm currently studying Science and Technology. I really love technology and comp
 
 <details>
   <summary><h3>🧸A little bit more of me.</h3></summary>
-  I started to code since my highschool, where i had contact with basic IT and some static site creation, so, i saw a little bit of HTML and CSS. Also, i studied other field of IT like network (my beloved) and a bit of Java. Now, i'm studying Ciency and Technology and going to Computer Science on the future.
+I started coding in high school, where I was introduced to basic IT and static site creation using HTML and CSS. I also studied other fields of IT, like networking (my favorite!) and a bit of Java. Currently, I am studying Science and Technology with the goal of moving into Computer Science in the future.
 
-  Usually, i spend my time reading, studying or make coding on a project to make a more robust study of sintaxe and flow of a language. Sometimes i like to write about phylosophy and historical/sociological topics on my blog. I wrote about Linux too, which i love.
-
+  In my free time, I usually spend my days reading, studying, or coding projects to build a more robust understanding of language syntax and logic. I also enjoy writing about philosophy and historical or sociological topics on my blog. I often write about Linux too, which is a system I love.
 </details>
 
 ---
-<br>
-
 ###### Brief view of Tux:
 ![tux-linux-penguin](assets/tux-linux-penguin.gif)
 
