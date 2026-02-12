@@ -30,10 +30,15 @@ I'm currently studying Science and Technology. I really love technology and comp
 
 <br><br>
 
----   
+<!---
+---
+
 ### 📊 Stats
 
 ![Cristianism0 stats](https://github-readme-stats.vercel.app/api?username=cristianism0&show_icons=true&theme=radical)
+
+-->
+
 ---
 
 <details>
