@@ -5,7 +5,7 @@
 - Science and Technology | Computer Science student.
 - Technician on Systems Development.
 - Working on self projects.
-- [Writing sometimes](https://cristianism0.github.io).
+- [Writing sometimes](https://cristianism0.gitlab.io).
 
 
 ## <img src="assets/script.gif" width="30" align="center"> Skills
