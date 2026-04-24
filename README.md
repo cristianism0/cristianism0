@@ -22,8 +22,3 @@
 - Linux and low-level programming.
 - Data Science and AI Engineering.
 
-## <img src="assets/script.gif" width="30" align="center"> Contacts
-
-- [Linkedin](https://www.linkedin.com/in/cristian-sales-7092212b4)
-- [Twitter/X](https://x.com/dracutx86_64)
-- [Email](mailto:csg2099@gmail.com)
