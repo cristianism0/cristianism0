@@ -1,24 +1,38 @@
-<img src="assets/header.jpg" width="100%" align="center">
+<p align="center">
+  <samp>
+    <b>booting profile...</b><br>
+    <i>loading user config files</i>
+  </samp>
+</p>
 
-<p align="center"> <code> code maker </code> </p>
+<table>
+<tr>
+<td width="60%">
 
-- Science and Technology | Computer Science student.
-- Technician on Systems Development.
-- Working on self projects.
-- [Writing sometimes](https://cristianism0.gitlab.io).
+```console
+$ whoami
+science and technology && computer science student 
 
+$ skills --main
+python rust c
 
-## <img src="assets/script.gif" width="30" align="center"> Skills
+$ cat tools
+git bash sql
 
-- **Main Stack**: Python, Rust, C.
-- **Data Stack**: Pandas, Polars, Matplotlib, SQL.
-- **Tools**: Git, Bash, Pandas, Jupyter.
-- **Envs**: Windows, Linux.
+$ cat interests
+theoretical cs
+linux
+low-level systems
+ai engineering [ nlp, ocr, htr]
 
+$ cat env
+linux windows bash git
 
-## <img src="assets/script.gif" width="30" align="center"> Interests
-
-- Theoretical Computer Science.
-- Linux and low-level programming.
-- Data Science and AI Engineering.
-
+$ status ... ▌
+```
+</td>
+<td width="40%" align="center">
+<img src="assets/lain.gif" width="100%">
+</td>
+</tr>
+</table>
