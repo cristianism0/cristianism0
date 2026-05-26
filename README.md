@@ -5,34 +5,27 @@
   </samp>
 </p>
 
-<table>
-<tr>
-<td width="60%">
+<p align="center">
+  <img src="assets/lain.gif" width="280">
+</p>
 
 ```console
 $ whoami
-science and technology && computer science student 
+science and techno && cs student 
 
 $ skills --main
 python rust c
 
 $ cat tools
-git bash sql
+git bash sql bash git
 
 $ cat interests
 theoretical cs
 linux
-low-level systems
 ai engineering [ nlp, ocr, htr]
 
-$ cat env
-linux windows bash git
+$ status:
+[studying linux architecture]
 
-$ status ... ▌
+$ ▌
 ```
-</td>
-<td width="40%" align="center">
-<img src="assets/lain.gif" width="100%">
-</td>
-</tr>
-</table>
