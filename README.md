@@ -17,12 +17,12 @@ $ skills --main
 python rust c
 
 $ cat tools
-git bash sql bash git
+git bash sql bash linux
 
 $ cat interests
 theoretical cs
 linux
-ai engineering [ nlp, ocr, htr]
+ai engineering [nlp, ocr, htr]
 
 $ status:
 [studying linux architecture]
